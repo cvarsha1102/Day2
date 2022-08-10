@@ -1,0 +1,16 @@
+Document Object Model:
+#When a web page is loaded, the browser creates a Document Object Model of the page.
+#The document object represents the whole html document as a tree of Objects(HTML, HEAD, BODY, and other HTML tags).
+#It is the root element that represents the html document.
+
+Document Object:
+#Each HTML document that gets loaded into a window becomes a document object
+#The document contains the contents of the page
+#Using document object, JavaScript can modify, add and delete the HTML elements, attributes CSS styles in the page
+#Document object is property of window object that points to the DOM document loaded in that window.
+
+________________________________________
+Window object : 
+#It is the top most object and outermost element
+#The window object represents a window/tab containing a DOM document
+#Window is global object
